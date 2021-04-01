@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apple Fifth Avenue Cube in WebGL
 
 Demo for the tutorial on how to re-create the Apple Fifth Avenue cube animation using WebGL. By Lorenzo Cadamuro.
@@ -31,3 +32,6 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 
 [© Codrops 2019](http://www.codrops.com)
+=======
+# farmredirect
+>>>>>>> 49b38d7990ac9318dc7d50ca456c6419ffcee968
